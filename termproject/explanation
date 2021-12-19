@@ -1,0 +1,5 @@
+Lead-Lag Compensator Design
+In this project, Lead-Lag Compensator has been designed so that the system can operate in accordance with the desired conditions (maximum overshoot, settling time...).
+Balanced and unbalanced system outputs were compared using Proteus.
+Controller Design and tests were tested on Matlab and Simulink platforms, and then the theoretical calculations and simulation results of the project were reported.
+
